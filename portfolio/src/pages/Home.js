@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from '../components/Header';
-import minhaFoto from '../assets/minhaFoto.jpg';
+import minhaFoto from '../assets/foto-angelica.jpg';
 
 export default function Home() {
   return (
