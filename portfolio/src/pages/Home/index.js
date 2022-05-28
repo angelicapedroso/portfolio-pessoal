@@ -10,9 +10,8 @@ export default function Home() {
       <Header />
       <div className="content">
         <div className="text">
-          <h1>Angélica Pedroso</h1>
+          <h1>Angélica Pedroso  <BsCodeSlash style={ { fontSize: '30px' } } /> </h1>
           <h2>Estudante de Desenvolvimento Web Full-Stack</h2>
-          <BsCodeSlash style={ { fontSize: '40px' } }/>
         </div>
         <figure>
           <img

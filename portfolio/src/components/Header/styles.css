@@ -1,0 +1,20 @@
+@import '../../assets/global.css';
+
+li {
+  color: var(--quinary-color);
+  list-style-type: none;
+  text-decoration: none !important;
+  color: var(--quinary-color);
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 40px;
+  border: 1px solid var(--tertiary-color);
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  padding: 20px;
+}
+   
