@@ -1,0 +1,20 @@
+.contact {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: var(--quinary-color);
+}
+
+.contact_container {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-around; */
+  color: var(--quinary-color);
+  border-radius: 10px;
+  /* box-shadow: 7px 7px 13px 0px var(--secondary-color); */
+  padding: 12% 5% 12% 5%;
+  margin: 5%;
+  background-color: var(--tertiary-color); 
+}
+
+/* testar envolver os elementos em um div */
