@@ -16,7 +16,7 @@ export default function Contact() {
             target="_blank"
             rel="noreferrer"
           >
-            <FaGithub style={ { fontSize: '40px' } } />
+            <FaGithub style={ { fontSize: '40px', color: 'var(--primary-color)' } } />
             angelicapedroso
           </a>
           <br></br>
@@ -24,7 +24,7 @@ export default function Contact() {
             target="_blank"
             rel="noreferrer"
           >
-            <FaLinkedin style={ { fontSize: '40px' } } />
+            <FaLinkedin style={ { fontSize: '40px', color: 'var(--primary-color)' } } />
             Angélica Pedroso
           </a>
           <br></br>
@@ -32,7 +32,7 @@ export default function Contact() {
             target="_blank"
             rel="noreferrer"
           >
-            <SiGmail style={ { fontSize: '40px' } } />
+            <SiGmail style={ { fontSize: '40px', color: 'var(--primary-color)' } } />
             contatoangelicapedroso@gmail.com
           </a>
           <br></br>
@@ -40,7 +40,7 @@ export default function Contact() {
             target="_blank"
             rel="noreferrer"
           >
-            <BsWhatsapp style={ { fontSize: '40px' } } />
+            <BsWhatsapp style={ { fontSize: '40px', color: 'var(--primary-color)' } } />
             (33) 999766586
           </a>
         </nav>
