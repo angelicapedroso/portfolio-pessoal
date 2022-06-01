@@ -1,7 +1,7 @@
 .contact {
   display: flex;
   align-items: center;
-  flex-direction: column;
+  /* flex-direction: column; */
   color: var(--quinary-color);
 }
 
@@ -19,4 +19,12 @@
 a {
   text-decoration: none;
   color: white;
+}
+
+img {
+  width: 80%;
+  border: 5px solid var(--tertiary-color);
+  border-top: none;
+  border-left: none;
+  border-radius: 50%;
 }

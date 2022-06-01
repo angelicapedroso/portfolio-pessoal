@@ -1,6 +1,5 @@
 import React from 'react';
 import Header from '../../components/Header';
-import minhaFoto from '../../assets/foto-angelica.png';
 import { BsCodeSlash } from 'react-icons/bs';
 import './styles.css';
 
@@ -10,15 +9,9 @@ export default function Home() {
       <Header />
       <div className="content">
         <div className="text">
-          <h1>Angélica Pedroso  <BsCodeSlash style={ { fontSize: '30px' } } /> </h1>
-          <h2>Estudante de Desenvolvimento Web Full-Stack</h2>
+          <h1>ANGÉLICA PEDROSO <BsCodeSlash style={ { fontSize: '30px' } } /> </h1>
+          <h2>DESENVOLVEDORA FRONT-END (BACK-END EM CONSTRUÇÃO)</h2>
         </div>
-        <figure>
-          <img
-            src={ minhaFoto }
-            alt='angelica-pedroso'
-          />
-        </figure>
       </div>
     </div>
   );

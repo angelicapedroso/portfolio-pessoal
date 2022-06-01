@@ -24,11 +24,3 @@ h1 {
   align-items: center;
   flex-direction: column;
 }
-
-img {
-  width: 80%;
-  border: 5px solid var(--tertiary-color);
-  border-top: none;
-  border-left: none;
-  border-radius: 50%;
-}
