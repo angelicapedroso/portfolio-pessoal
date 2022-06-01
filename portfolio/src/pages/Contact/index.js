@@ -19,6 +19,7 @@ export default function Contact() {
             <FaGithub style={ { fontSize: '40px' } } />
             angelicapedroso
           </a>
+          <br></br>
           <a href='https://www.linkedin.com/in/angelicapedroso'
             target="_blank"
             rel="noreferrer"
@@ -26,6 +27,7 @@ export default function Contact() {
             <FaLinkedin style={ { fontSize: '40px' } } />
             Angélica Pedroso
           </a>
+          <br></br>
           <a href='mailto:contatoangelicapedroso@gmail.com'
             target="_blank"
             rel="noreferrer"
@@ -33,6 +35,7 @@ export default function Contact() {
             <SiGmail style={ { fontSize: '40px' } } />
             contatoangelicapedroso@gmail.com
           </a>
+          <br></br>
           <a href='https://wa.me/message/P4Q2PCD52SGBP1'
             target="_blank"
             rel="noreferrer"

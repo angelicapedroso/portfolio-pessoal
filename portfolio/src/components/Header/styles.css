@@ -3,7 +3,6 @@
 li {
   color: var(--quinary-color);
   list-style-type: none;
-  text-decoration: none !important;
   color: var(--quinary-color);
 }
 
@@ -16,5 +15,9 @@ li {
   border-left: none;
   border-right: none;
   padding: 20px;
+}
+
+a {
+  text-decoration: none;
 }
    
