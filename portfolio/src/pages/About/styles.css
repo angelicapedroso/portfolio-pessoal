@@ -1,11 +1,21 @@
 @import '../../assets/global.css';
 
 .about {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 0;
+}
+
+.text-container {
   color: var(--quinary-color);
   border-radius: 10px;
   box-shadow: 7px 7px 13px 0px var(--secondary-color);
   padding: 3%;
-  margin: 5%;
+  margin: 2%;
   width: 45%;
   background-color: var(--tertiary-color);
+}
+
+img {
+  margin-top: 10%;
 }
